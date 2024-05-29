@@ -13,9 +13,7 @@ Niebieskie - bariery
 
 Żółte - power-upy 
 
-Poruszanie:
-
-- Gracz steruje wężem używając strzałek na klawiaturze.
+Poruszanie - Gracz steruje wężem używając strzałek na klawiaturze.
 
 p - pauza podczas gry
 
