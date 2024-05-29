@@ -10,11 +10,16 @@ Niebieskie - bariery
 Żółte - power-upy 
 
 Poruszanie - Gracz steruje wężem używając strzałek na klawiaturze.
+
 p - pauza podczas gry
+
 q - wyjście z gry
 
 Menu:
 p - zaczęcie gry
+
 h - najwyższe wyniki (Top 5)
+
 i - instrukcje
+
 q - wyjście z gry
